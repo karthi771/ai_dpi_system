@@ -1,0 +1,21 @@
+AI-Based Food Complaint Fraud Detection System
+
+✅ RESUME DESCRIPTION (BEST VERSION – 3–4 BULLETS)
+
+You can copy this directly:
+
+Developed an image-based anomaly detection system to identify potentially fraudulent food complaint images using deep learning.
+Leveraged transfer learning with MobileNetV2 to classify images as genuine or suspicious based on visual inconsistencies.
+Created a custom dataset by collecting real food images and generating realistic tampered samples (hair, foreign particles, smudging).
+Implemented data preprocessing and augmentation techniques to improve model generalization on limited data.
+Built a Flask-based web interface to upload images and obtain real-time predictions.
+
+
+Option 1: Detailed & High-Impact (Best for a prominent project section)
+AI-Driven Deep Packet Inspection & Intrusion Detection System Python, Scapy, Scikit-Learn (Isolation Forest, Random Forest), Pandas, Regex
+
+Developed a high-performance network security system capable of real-time traffic monitoring and offline PCAP file analysis using Scapy.
+Engineered a custom Deep Packet Inspection (DPI) engine utilizing pre-compiled regex signatures to decode payloads and instantly detect Application-layer attacks, including SQL Injection, XSS, and Directory Traversal.
+Integrated machine learning models (Isolation Forest and Random Forest via Scikit-Learn) to track complex flow statistics and detect behavioral anomalies (e.g., DDoS attacks, Port Scans) that bypass traditional signature-based firewalls.
+Built a stateful flow tracking mechanism to aggregate packet data into conversational flows, extracting key statistical features optimized for ML inference using Pandas.
+Designed a dynamic security dashboard and attack visualizer to log incidents and map live connections, providing real-time visibility into active network threats.

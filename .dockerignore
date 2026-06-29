@@ -1,0 +1,8 @@
+.venv
+__pycache__
+.git
+data/MachineLearningCVE/
+*.pkl
+!traffic_model.pkl
+!traffic_model_multiclass.pkl
+!anomaly_model.pkl

@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+.eggs/
+dist/
+build/
+.venv/
+venv/
+env/
+
+# IDE / OS
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+.env.*
+
+# Large ML artifacts (train locally or download from releases)
+*.pkl
+
+# CICIDS2017 CSV files are ~700MB+ total — download separately
+data/MachineLearningCVE/*.csv
+
+# Generated / local outputs
+*.log
+.streamlit/secrets.toml
+
+# Optional: keep evaluation artifacts in repo; uncomment to ignore
+# evaluation_results.json
+# confusion_matrix.png
