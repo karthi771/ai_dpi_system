@@ -24,7 +24,7 @@ Thumbs.db
 .env.*
 
 # Large ML artifacts (train locally or download from releases)
-*.pkl
+
 
 # CICIDS2017 CSV files are ~700MB+ total — download separately
 data/MachineLearningCVE/*.csv
